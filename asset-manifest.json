@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DialogueConverter/static/css/main.a8a751aa.css",
+    "main.js": "/DialogueConverter/static/js/main.db03cbbf.js",
+    "index.html": "/DialogueConverter/index.html",
+    "main.a8a751aa.css.map": "/DialogueConverter/static/css/main.a8a751aa.css.map",
+    "main.db03cbbf.js.map": "/DialogueConverter/static/js/main.db03cbbf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a8a751aa.css",
+    "static/js/main.db03cbbf.js"
+  ]
+}
